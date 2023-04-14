@@ -59,7 +59,9 @@ gaitober" => "gato"
 
 ### Autor:
 - Eduardo Adrian Lopez<br>
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/eduardo-adrian-lopez/")
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https:")
+- Eduardo Adrian Lopez <br>
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="eduardo-adrian-lopez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/eduardo-adrian-lopez?trk=profile-badge">EDUARDO ADRIAN LOPEZ</a></div>
 
 ### 7. Badge:
 <div align="center"><img src="./img/cms_files_10224_1671210503Prancheta_3.png" width="200"/></div>
